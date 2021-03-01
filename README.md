@@ -16,3 +16,5 @@ This app was created using react-create-app and is written in TypeScript, React,
 - The data header row range input takes a string and is parsed to check for a valid row. The first data point row input will change according to the data header row range result.
 - Empty data cells will be marked as an error. Each column will display the total number of errors for the visible set.
 - The data displayed in each column can be set, reset, and reordered. Only unselected columns appear in the dropdown.
+
+![excel sheet importer](https://github.com/emilylhansen/excel-sheet-importer/blob/main/src/excel_sheet_importer.gif)
